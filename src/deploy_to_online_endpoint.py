@@ -6,7 +6,7 @@ from azure.ai.ml.constants import AssetTypes
 import argparse
 import datetime
 
-
+# adding comment
 def parse_args():
     parser = argparse.ArgumentParser()
 
